@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate Front-end Developer with over two years of experience in web development, specialized in building clean, responsive, and user-centered applications.<br><br> • 📚 Currently: I am looking for an internship, working towards my Diploma in Digital Technology Architecture.<br><br> • 🎓 Student at 1337 Coding School: Completed the intensive Common Core program focused on algorithmic thinking, low-level programming, and software engineering practices.<br><br>•  🧑‍💻 Freelancer (2020–2022): Delivered high-quality front-end solutions to a wide range of clients.<br></p>
+<p align="left">I am a passionate Front-end Developer with over two years of experience in web development, specialized in building clean, responsive, and user-centered applications.<br><br> • 📚 Currently: I am an intern in front-end development, working towards my Diploma in Digital Technology Architecture.<br><br> • 🎓 Student at 1337 Coding School: Completed the intensive Common Core program focused on algorithmic thinking, low-level programming, and software engineering practices.<br><br>•  🧑‍💻 Freelancer (2020–2022): Delivered high-quality front-end solutions to a wide range of clients.<br></p>
 
 ###
 
